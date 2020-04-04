@@ -6,7 +6,7 @@ XamarinUi Gallery created by me.
 
 | Screen       | Info          |
 | ------------ | ------------- |
-| <img width="150" src="https://github.com/alexandresanlim/XamarinUI.Dashboard/blob/master/XamarinUI.Dashboard/XamarinUI.Dashboard/Src/Img/Screen/android.gif?raw=true"/> | Repository Link <br/> **Repository Link** repository <br/><br/> **Extra Packages Dependencies:** <br/> -afdsfds - fadsfdsf |
+| <img width="150" src="https://github.com/alexandresanlim/XamarinUI.Dashboard/blob/master/XamarinUI.Dashboard/XamarinUI.Dashboard/Src/Img/Screen/android.gif?raw=true"/> |  **Repository Link** <br/> repository <br/><br/> **Extra Packages Dependencies:** <br/> -afdsfds - fadsfdsf **Platform Run** iOS  <br/> Android |
 | <img id="card" width="150" src="https://raw.githubusercontent.com/alexandresanlim/XamarinUI.AddCreditCard/master/XamarinUI.AddCreditCard/XamarinUI.AddCreditCard/src/screenshot/android.gif"/> | fdsfdsf  |
 
 
