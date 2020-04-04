@@ -6,7 +6,7 @@ XamarinUi Gallery created by me.
 | Info | Screen |
 | ------------ | ------------- |
 | teste teste teste teste | <img width="150" src="https://github.com/alexandresanlim/XamarinUI.Dashboard/blob/master/XamarinUI.Dashboard/XamarinUI.Dashboard/Src/Img/Screen/android.gif?raw=true"/>|
-| <a id="card"></a> testes dsfsdf | <img width="150" src="https://raw.githubusercontent.com/alexandresanlim/XamarinUI.AddCreditCard/master/XamarinUI.AddCreditCard/XamarinUI.AddCreditCard/src/screenshot/android.gif"/> |
+| testes dsfsdf | <img id="card" width="150" src="https://raw.githubusercontent.com/alexandresanlim/XamarinUI.AddCreditCard/master/XamarinUI.AddCreditCard/XamarinUI.AddCreditCard/src/screenshot/android.gif"/> |
 
 
 
