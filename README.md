@@ -1,4 +1,4 @@
-<a href="https://github.com/alexandresanlim/XamarinUI.MyGallery"><img src="https://github.com/alexandresanlim/XamarinUI.MyGallery/blob/master/xamarin_ui_gallery_head.png?raw=true" /></a>
+<p align='center'><a href="https://github.com/alexandresanlim/XamarinUI.MyGallery"><img src="https://github.com/alexandresanlim/XamarinUI.MyGallery/blob/master/xamarin_ui_gallery_head.png?raw=true" /></a></p>
 
 
 
